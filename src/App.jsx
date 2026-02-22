@@ -20,11 +20,11 @@ const links = [
   //   url: "https://www.project.co.id/profile/zenproject",
   //   logo: "https://www.projects.co.id/favicon.ico", // atau pakai SVG kalau ada
   // },
-  // {
-  //   name: "Instagram",
-  //   url: "https://instagram.com/zenproject.id",
-  //   logo: "https://img.icons8.com/fluency/48/000000/instagram-new.png",
-  // },
+  {
+    name: "Instagram",
+    url: "https://www.instagram.com/julanweb?igsh=MWxvdW11N21qdGd4Ng==",
+    logo: "https://img.icons8.com/fluency/48/000000/instagram-new.png",
+  },
 ];
 
 export default function LinkTree() {
